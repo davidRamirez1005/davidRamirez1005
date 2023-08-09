@@ -63,3 +63,11 @@
 <h4 align="left">Me encanta aprender y experimentar con nuevas ideas. Cuando no estoy sumergido en líneas de código, me gusta explorar el mundo, escuchar música y leer libros. Siempre estoy abierto a una buena conversación sobre cualquier cosa, desde desarrollo de software hasta películas favoritas.</h4>
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/joseDavid">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
