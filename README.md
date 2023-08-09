@@ -60,7 +60,8 @@
 
 <br clear="both">
 
-<h4 align="left">Me encanta aprender y experimentar con nuevas ideas. Cuando no estoy sumergido en líneas de código, me gusta explorar el mundo, escuchar música y leer libros. Siempre estoy abierto a una buena conversación sobre cualquier cosa, desde desarrollo de software hasta películas favoritas.</h4>
+<h4 align="left">
+I love learning and experimenting with new ideas. When I'm not immersed in lines of code, I like to explore the world, listen to music, and read books. I'm always open to a good conversation about anything from software development to favorite movies..</h4>
 
 ###
 
