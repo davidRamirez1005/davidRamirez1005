@@ -10,6 +10,7 @@
 
 <div align="left">
   <h3 align="left">🛠 Language and tools</h3>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
@@ -50,7 +51,7 @@
 </div>
 
 ###
-
+<br><br>
 <div align="left">
 <a href="https://www.instagram.com/jramirez_1005/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
