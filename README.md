@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://juan-mogotocoro.vercel.app/img/luna02.png"  />
+<img align="right" height="150" src="https://juan-mogotocoro.vercel.app/img/luna3.png"  />
 
 ###
 
