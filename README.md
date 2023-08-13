@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/vector-gratis/ilustracion-icono-vector-dibujos-animados-lindo-gato-fresco-anteojos-sudadera-capucha-concepto-icono-moda-animal-aislado-premium-vector-estilo-dibujos-animados-plana_138676-4234.jpg?w=826&t=st=1691597203~exp=1691597803~hmac=11d78c4bf48731d047f42883cdd6ce48a537a8182f3a867991ba67402f7643d1"  />
+<img align="right" height="150" src="https://juan-mogotocoro.vercel.app/img/luna02.png"  />
 
 ###
 
@@ -53,10 +53,16 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
 
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<a href="https://discord.com/users/1106722889102790777" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"     
+  alt="discord logo"  />
+</a>
+<a href="https://www.linkedin.com/in/jose-david-ram%C3%ADrez-mogotocoro-290b39260" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100043848120379" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+      </a>
 </div>
 
 ###
