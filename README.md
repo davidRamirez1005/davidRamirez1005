@@ -10,7 +10,7 @@
 
 <div align="left">
   <h3 align="left">🛠 Language and tools</h3>
-  
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
@@ -49,8 +49,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="39" alt="debian logo"  />
 </div>
+<br clear="both">
 
-###
+<h4 align="left">
+I love learning and experimenting with new ideas. When I'm not immersed in lines of code, I like to explore the world, listen to music, and read books. I'm always open to a good conversation about anything from software development to favorite movies..</h4>
+
 <br><br>
 <div align="left">
 <a href="https://www.instagram.com/jramirez_1005/" target="_blank">
@@ -68,16 +71,3 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
       </a>
 </div>
-
-###
-
-<br clear="both">
-
-<h4 align="left">
-I love learning and experimenting with new ideas. When I'm not immersed in lines of code, I like to explore the world, listen to music, and read books. I'm always open to a good conversation about anything from software development to favorite movies..</h4>
-
-###
-
-
-
-###
