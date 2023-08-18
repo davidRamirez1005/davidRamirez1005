@@ -56,8 +56,8 @@
 I love learning and experimenting with new ideas. When I'm not immersed in lines of code, I like to explore the world, listen to music, and read books. I'm always open to a good conversation about anything from software development to favorite movies..</h4>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidRamirez1005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidRamirez1005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=davidRamirez1005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidRamirez1005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 <br><br>
 <div align="left">
