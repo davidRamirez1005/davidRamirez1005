@@ -56,7 +56,7 @@
 I love learning and experimenting with new ideas. When I'm not immersed in lines of code, I like to explore the world, listen to music, and read books. I'm always open to a good conversation about anything from software development to favorite movies..</h4>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidRamirez1005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?davidRamirez1005=anuraghazra&layout=pie" height="150" alt="stats graph"  />
 </div>
 <br><br>
 <div align="left">
