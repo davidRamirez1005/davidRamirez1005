@@ -53,7 +53,9 @@
 <br clear="both">
 
 <h4 align="left">
-I love learning and experimenting with new ideas. When I'm not immersed in lines of code, I like to explore the world, listen to music, and read books. I'm always open to a good conversation about anything from software development to favorite movies..</h4>
+I am a software development enthusiast with a strong commitment to improve my skills and share knowledge,
+passionate about technology and programming, dedicated to creating innovative solutions and constantly learning.
+My journey is not just personal, but shared. I believe in the importance of sharing knowledge and experiences with other enthusiasts and learners. 🚀 </h4>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davidRamirez1005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
