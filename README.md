@@ -59,8 +59,8 @@ passionate about technology and programming, dedicated to creating innovative so
 My journey is not just personal, but shared. I believe in the importance of sharing knowledge and experiences with other enthusiasts and learners. 🚀 </h4>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidRamirez1005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidRamirez1005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=davidRamirez1005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidRamirez1005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 <br><br>
 <div align="left">
