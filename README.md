@@ -63,7 +63,9 @@ My journey is not just personal, but shared. I believe in the importance of shar
   <img src="https://github-readme-stats.vercel.app/api?username=davidRamirez1005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=flase&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidRamirez1005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
+<a href="https://www.credly.com/users/jose-david-ramirez-mogotocoro/badges">
 <img align="left" height="200" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png"  />
+</a>
 <br><br>
 <div align="left">
 <a href="https://www.instagram.com/jramirez_1005/" target="_blank">
