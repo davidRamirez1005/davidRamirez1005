@@ -2,6 +2,7 @@
 <div align="center">
   <img height="150" src="https://jose-david-ramirez.vercel.app/assets/coding2.0-316cb934.svg"  />
     <img height="120" src="./assets/logo.jpeg" style="border-radius:5%" />
+  <img height="120" src="https://jose-david-ramirez.vercel.app/assets/logoremovebg-dc139153.png" style="border-radius:5%" />
 </div>
 
 
